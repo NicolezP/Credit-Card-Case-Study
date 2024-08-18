@@ -29,7 +29,7 @@ repeat this step for all required columns : Attrition_Flag, Credit_Limit, Total_
 
 3. After checking that the required information is all in, we extract the data to Tableau <br>
 ![](ReadMe%20Images/3.PNG)<br>
-
+<br><br>
 ## Visualize the data in Tableau
 link to Tableau project
 
@@ -39,11 +39,21 @@ Buy More | Spend More (red)
 Buy More | Spend Less (orange)
 Don’t Buy | Don’t Spend (green)
 Low Buy | Low Spend (blue)
-![](ReadMe%20Images/4.PNG)<br>
-
+![](ReadMe%20Images/4.PNG)
+<br><br>
 ## Gather Insights from Best segment 
 We will be looking into these demographics of the best cluster to gather insights 
-
 ![](ReadMe%20Images/Dashboard%201.png)<br>
+<br>
+### Demographic of "Buy More | Spend More" clients
+*    Majority are in the age range of 40 to 53 years old  of Male Gender 73%
+*    Majority earning an Annual income of $60-120k+ with 2-3 dependents
+*    Mostly Married   Graduate and College Education 
+* 	 Average Month on Book is 36 Months , 3 years
+### Suggestions 
+The dataset is great for a segmentation study. We can recommend tailoring promotions to fit their lifestyles, such as offering cashback rebates for groceries and petrol. Additionally, we could suggest a sign-up bonus of $500 after spending $5,200 over three months, attracting customers who are confident they can meet this spending requirement. The average tenure is 36 months, and one reason for potential churn could be the high annual fee of $99 after the first year. Sparrow Card might consider offering renewal rebates to customers in this segment after 36 months to encourage loyalty.
+### Additional data we could investigate
+To design an effective marketing programme to further engage customers in this segment, we would have to dive into their spending data. It would also help to find out the net promoter index by surveying the customers in this segment on how likely they are to recommend this card to their peers and any feedback they might offer to improve the engagement and services to offer.
+
 
 
