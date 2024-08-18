@@ -44,6 +44,6 @@ Low Buy | Low Spend (blue)
 ## Gather Insights from Best segment 
 We will be looking into these demographics of the best cluster to gather insights 
 
-![](ReadMe%20Images/5.PNG)<br>
+![](ReadMe%20Images/Dashboard%201.png)<br>
 
 
