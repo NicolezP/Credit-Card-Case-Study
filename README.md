@@ -21,14 +21,14 @@ Existing customers with Utilization Ratio ≤ 30%  , Lifetime Usage of at Least 
 
 **Exploring the dataset then extract .csv for Tableau** <br>
 1. Check that there are no duplicates in our primary key : CLIENTNUM <br>
-insert pic1
+![](ReadMe%20Images/1.PNG)<br>
 
 2. Check for NULL VALUES in required columns <br>
 repeat this step for all required columns : Attrition_Flag, Credit_Limit, Total_Revolving-Bal, Avg_Open_To_Buy, Avg_Utilization_Ratio <br>
-insert pic2
+![](ReadMe%20Images/2.PNG)<br>
 
 3. After checking that the required information is all in, we extract the data to Tableau <br>
-insert pic3
+![](ReadMe%20Images/3.PNG)<br>
 
 ## Visualize the data in Tableau
 link to Tableau project
@@ -39,11 +39,11 @@ Buy More | Spend More (red)
 Buy More | Spend Less (orange)
 Don’t Buy | Don’t Spend (green)
 Low Buy | Low Spend (blue)
-insert pic4
+![](ReadMe%20Images/4.PNG)<br>
 
 ## Gather Insights from Best segment 
 We will be looking into these demographics of the best cluster to gather insights 
 
-insert pic5
+![](ReadMe%20Images/5.PNG)<br>
 
 
