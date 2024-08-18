@@ -16,7 +16,7 @@ Another of Sparrow’s unique selling points is its cutting-edge mobile app. Upo
 Study Sparrow's existing customer data to Improve customer retention and lifetime value, enhance customer engagement and spending. Find and target the group of top customers with high spend and value then work to tailor sales and promotions to these group of customers to ensure retention. 
 
 ## Extract dataset using MySQL for Tableau using 
-**suggested Metrics :** <br>
+**Suggested Metrics :** <br>
 Existing customers with Utilization Ratio ≤ 30%  , Lifetime Usage of at Least 12 Months ,  exclude unknown income information 
 
 **Exploring the dataset then extract .csv for Tableau** <br>
@@ -31,18 +31,22 @@ repeat this step for all required columns : Attrition_Flag, Credit_Limit, Total_
 ![](ReadMe%20Images/3.PNG)<br>
 <br><br>
 ## Visualize the data in Tableau
-link to Tableau project
-
-Tableau has made 4 distinct clusters from the dataset 
-Rename the 4 clusters respectively to: 
-Buy More | Spend More (red)
-Buy More | Spend Less (orange)
-Don’t Buy | Don’t Spend (green)
-Low Buy | Low Spend (blue)
+**Tableau has made 4 distinct clusters from the dataset** 
+<br><br>
+These 4 clusters are:<br> 
+Buy More | Spend More (red)<br> 
+Buy More | Spend Less (orange)<br> 
+Don’t Buy | Don’t Spend (green)<br> 
+Low Buy | Low Spend (blue)<br> 
+<br>
 ![](ReadMe%20Images/4.PNG)
 <br><br>
 ## Gather Insights from Best segment 
-We will be looking into these demographics of the best cluster to gather insights 
+
+Analyse the demographics of the best cluster to gather insights 
+<br><br>
+**[link to vizzie in Tableau Public](https://public.tableau.com/views/CreditCard_MarketSeg/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+<br><br>
 ![](ReadMe%20Images/Dashboard%201.png)<br>
 <br>
 ### Demographic of "Buy More | Spend More" clients
