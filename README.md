@@ -15,7 +15,7 @@ Another of Sparrow’s unique selling points is its cutting-edge mobile app. Upo
 ## The Task: 
 Study Sparrow's existing customer data to Improve customer retention and lifetime value, enhance customer engagement and spending. Find and target the group of top customers with high spend and value then work to tailor sales and promotions to these group of customers to ensure retention. 
 
-## Extract dataset using MySQL for Tableau using 
+## Extract dataset using MySQL for Tableau
 **Suggested Metrics :** <br>
 Existing customers with Utilization Ratio ≤ 30%  , Lifetime Usage of at Least 12 Months ,  exclude unknown income information 
 
